@@ -1,0 +1,32 @@
+body {
+  background-color: #282828;
+}
+
+#navid {
+  border-top: 3px #17A2B8 solid;
+  border-bottom: 3px #17A2B8 solid;
+
+
+}
+
+#nav {
+  color: white;
+}
+
+#nav:hover {
+  background: #17A2B8;
+  color: white;
+}
+
+.active {
+  background: #17A2B8;
+}
+
+
+#marginb {
+  margin-top: 100px;
+}
+
+#fot {
+  margin-bottom: 100%;
+}
